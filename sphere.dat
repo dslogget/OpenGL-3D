@@ -1,0 +1,12 @@
+o sphere.obj
+t sphere.jpg
+l 1.0 10.0
+s VertexShader.glsl FragmentShader.glsl
+u projMatrix
+u viewMatrix
+u transMatrix
+u rotationMatrix
+u lightPos
+u lightColour
+u specularReflectivity
+u specularFalloff

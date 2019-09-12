@@ -1,0 +1,12 @@
+o cube.obj
+t container.jpg
+l 0.5 15.0
+s VertexShader.glsl FragmentShader.glsl
+u projMatrix
+u viewMatrix
+u transMatrix
+u rotationMatrix
+u lightPos
+u lightColour
+u specularReflectivity
+u specularFalloff

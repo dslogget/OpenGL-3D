@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1567162423 source:c:\users\dslog\onedrive\documents\programming\c\opengl\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1567162698 c:\libraries\glad\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1567162698 c:\libraries\glad\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1567764591 source:c:\users\dslog\onedrive\documents\programming\c\opengl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"Model.h"
+	"FileLoading.h"
+	"Matrix.h"
+	"Shader.h"
+	"Camera.h"
+	"Light.h"
+
+1567161629 c:\libraries\glfw-3.3\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1567709370 c:\users\dslog\onedrive\documents\programming\c\opengl\model.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"Matrix.h"
+	"Shader.h"
+	"Light.h"
+	<stdlib.h>
+
+1567702511 source:c:\users\dslog\onedrive\documents\programming\c\opengl\model.c
+	"Model.h"
+
+1567765600 source:c:\users\dslog\onedrive\documents\programming\c\opengl\fileloading.c
+	"stb_image.h"
+	"FileLoading.h"
+
+1567701051 c:\users\dslog\onedrive\documents\programming\c\opengl\fileloading.h
+	<stdio.h>
+	<stdlib.h>
+	"Model.h"
+	<string.h>
+
+1567529390 c:\users\dslog\onedrive\documents\programming\c\opengl\matrix.h
+	<string.h>
+	<stdio.h>
+	<math.h>
+
+1567525409 source:c:\users\dslog\onedrive\documents\programming\c\opengl\matrix.c
+	"Matrix.h"
+
+1567441659 c:\users\dslog\onedrive\documents\programming\c\opengl\shader.h
+
+1567524789 c:\users\dslog\onedrive\documents\programming\c\opengl\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1567529614 source:c:\users\dslog\onedrive\documents\programming\c\opengl\camera.c
+	"Camera.h"
+
+1567529600 c:\users\dslog\onedrive\documents\programming\c\opengl\camera.h
+	"Matrix.h"
+
+1567682783 source:c:\users\dslog\onedrive\documents\programming\c\opengl\light.c
+	"Light.h"
+
+1567683674 c:\users\dslog\onedrive\documents\programming\c\opengl\light.h
+	"Matrix.h"
+
